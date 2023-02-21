@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPattern\\Singleton\\Singleton.csproj",
+      "projectUniqueName": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPatternTestProject\\Singleton\\Singleton.csproj",
       "projectName": "Singleton",
-      "projectPath": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPattern\\Singleton\\Singleton.csproj",
+      "projectPath": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPatternTestProject\\Singleton\\Singleton.csproj",
       "packagesPath": "C:\\Users\\achmielowiec\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPattern\\Singleton\\obj\\",
+      "outputPath": "C:\\Users\\achmielowiec\\RiderProjects\\DesignPatternTestProject\\Singleton\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
